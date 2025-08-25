@@ -77,8 +77,3 @@ Key fields: `Invoice_id`, `Branch`, `City`, `Customer_type`, `Gender`, `Product_
 
 
 ---
-
-## 📢 Author
-👤 **Deepak Verma**  
-B.Tech CSE (Data Science) | Aspiring Data Scientist  
-🔗 [LinkedIn](your-linkedin) | [GitHub](your-github)
